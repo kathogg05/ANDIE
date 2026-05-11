@@ -1,5 +1,13 @@
 # TEAM X README 
 
+Course: https://www.otago.ac.nz/courses/papers?papercode=COSC202
+
+**Prerequisites:** Java JDK 11 or higher
+
+To run, locally clone the repository:
+`chmod +x gradlew`
+`./gradlew run`
+
 ## Feature Contributors
 ### Part 1
 - Sharpen Filter - Katrina
